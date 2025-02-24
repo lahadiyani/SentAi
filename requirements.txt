@@ -1,0 +1,6 @@
+matplotlib
+requests
+chardet
+google_play_scraper
+tkinter
+pillow
